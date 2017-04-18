@@ -43,7 +43,7 @@ while True:
 
     if mean == 2:
         frst_am = str(frst_am)
-        if frst_am.startswith("0"):
+        if frst_am.startswith("1"):
             index = 0
             total = 0
             size = len(frst_am) - 1
